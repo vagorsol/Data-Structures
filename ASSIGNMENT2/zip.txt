@@ -1,0 +1,6 @@
+5,zip,city,state,population,males,females,  
+00501,Holtsville,NY,,,,  
+00544,Holtsville,NY,,,,  
+00601,Adjuntas,PR,18570,9078,9492,  
+00602,Aguada,PR,41520,20396,21124,  
+00603,Aguadilla,PR,54689,26597,28092, 
